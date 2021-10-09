@@ -1,0 +1,19 @@
+.page-list-container{
+    display: flex;
+    flex-direction: row;
+    width: 200px;
+    justify-content: space-between;
+}
+
+.page-list{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    list-style: none;
+    width: 25px;
+    height: 25px;
+    color: #232323;
+    box-shadow: 2px 2px 8px #aaaaaa;
+    border-radius: 9px;
+    text-decoration: none;
+}
